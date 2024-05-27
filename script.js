@@ -33,4 +33,6 @@ link3.addEventListener('click', () => {
 })
 
 
+//HTML Kodları
+
 
