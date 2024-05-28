@@ -34,5 +34,6 @@ link3.addEventListener('click', () => {
 
 
 //HTML Kodları
+//path.javascript
 
 
