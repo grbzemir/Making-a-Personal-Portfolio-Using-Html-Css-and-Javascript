@@ -1,6 +1,7 @@
 
 //JavaScript Kodları
 //Devamı Gelcek
+//.
 
 function scrollToElement(elementSelector, instance = 0) {
 
