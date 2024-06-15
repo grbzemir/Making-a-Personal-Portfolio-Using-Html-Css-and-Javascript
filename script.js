@@ -15,6 +15,12 @@ function scrollToElement(elementSelector, instance = 0) {
         elements[instance].scrollIntoView({ behavior: 'smooth' });
     }
 
+    // if(!elements[instance]) {
+    //     console.error('Element bulunamadı');
+    //     return;
+    // }
+
+
 }
 
 
