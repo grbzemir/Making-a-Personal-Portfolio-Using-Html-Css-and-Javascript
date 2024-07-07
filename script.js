@@ -26,7 +26,7 @@ function scrollToElement(elementSelector, instance = 0) {
 
 
 const link1 = document.getElementById("link1");
-const link2 = document.getElementById("link2");
+const link2 = document.getElementById("link2"); g
 const link3 = document.getElementById("link3");
 
 link1.addEventListener('click', () => {
@@ -48,6 +48,6 @@ link3.addEventListener('click', () => {
 
 
 //HTML Kodları
-//path.javascript
-//Devam Edecek
+//Javascript
+
 
